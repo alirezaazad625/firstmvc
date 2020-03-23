@@ -1,0 +1,15 @@
+{
+    "name": "alireza/symfony",
+    "description": "my very first symfony procject",
+    "type": "project",
+    "require": {
+        "symfony/console": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alireza",
+            "email": "alirezaazad625@yahoo.com"
+        }
+    ]
+}
